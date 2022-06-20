@@ -2,7 +2,7 @@
 Guest book unstoppable
 
 # Link to working code in a public repo 
-[https://github.com/spiritbro1/dapp-chat-unstoppable](https://github.com/spiritbro1/guest-book-unstoppable)
+[https://github.com/spiritbro1/guest-book-unstoppable](https://github.com/spiritbro1/guest-book-unstoppable)
 
 # Recorded video demo of the integration (max. 3 mins)
 
