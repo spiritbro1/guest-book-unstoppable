@@ -203,7 +203,7 @@ export default {
     try {
       const uauth = new UAuth({
         clientID: "743da06f-b543-475b-9f53-6e735213b5ea",
-        redirectUri: "http://localhost:3000",
+        redirectUri: "https://guest-book-unstoppable-spiritbro.vercel.app",
         scope: "openid wallet",
       });
       const a = await uauth.user();
@@ -234,7 +234,7 @@ return makeBlockie(src)
       try {
         const uauth = new UAuth({
           clientID: "743da06f-b543-475b-9f53-6e735213b5ea",
-          redirectUri: "http://localhost:3000",
+          redirectUri: "https://guest-book-unstoppable-spiritbro.vercel.app",
           scope: "openid wallet",
         });
         const authorization = await uauth.loginWithPopup();
@@ -253,7 +253,7 @@ return makeBlockie(src)
     async logout() {
       const uauth = new UAuth({
         clientID: "743da06f-b543-475b-9f53-6e735213b5ea",
-        redirectUri: "http://localhost:3000",
+        redirectUri: "https://guest-book-unstoppable-spiritbro.vercel.app",
         scope: "openid wallet",
       });
       await uauth.logout();
