@@ -5,7 +5,8 @@ Guest book unstoppable
 [https://github.com/spiritbro1/dapp-chat-unstoppable](https://github.com/spiritbro1/guest-book-unstoppable)
 
 # Recorded video demo of the integration (max. 3 mins)
-https://user-images.githubusercontent.com/62529025/167747206-f310da4a-7861-4b48-af77-e12e21de912d.mp4
+
+https://user-images.githubusercontent.com/62529025/174518226-6ac05f83-5800-4473-943f-9e6cf7ce42a7.mp4
 
 # Person of contact in case there are any questions
 ## Discord ID
